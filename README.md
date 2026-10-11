@@ -1,4 +1,9 @@
-# Slop Sans
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+    <img src="header-light.svg" alt="Slop Sans" height="96">
+  </picture>
+</h1>
 
 A humanist sans as drawn by a model that almost learned the alphabet.
 
