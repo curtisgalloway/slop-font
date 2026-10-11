@@ -5,7 +5,7 @@
   </picture>
 </h1>
 
-A humanist sans as drawn by a model that almost learned the alphabet.
+A humanist sans serif font, as drawn by an AI model that almost learned the alphabet.
 
 ## Files
 - `SlopSans-Mild.ttf`, `SlopSans-Regular.ttf`, `SlopSans-Extra.ttf` — three intensities of slop (0.5 / 1.0 / 1.8).
